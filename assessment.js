@@ -38,7 +38,7 @@ assessmentButton.onclick=()=>{
 };
 
 const answers=[
-    '{userName}のいいところは決して諦めない意志の強さです。{userName}の諦めない心は大学卒業後の医学部再受験すら可能にしてしまいます。',
+    '{userName}のいいところは決して諦めない意志の強さです。',
     '{userName}のいいところはまなざしです。{userName}に見つめられた人は、気になって仕方がないでしょう。',
     '{userName}のいいところは情熱です。{userName}の情熱に周りの人は感化されます。',
     '{userName}のいいところは厳しさです。{userName}の厳しさがものごとをいつも成功に導きます。',
